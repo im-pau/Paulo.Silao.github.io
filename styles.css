@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 200px 0;
+}
+
+.overlay {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+.about-text {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+}
+.about-section {
+    padding: 40px;
+    background-image: url ('images/me.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.social-media-section {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.social-media-section li {
+    margin-right: 10px;
+}
+
+}
+
+.social-media-section {
+    padding: 40px;
+    color: #333; #f8f8f8;
+    background-color; #f
+}
+
+.social-media-section a {
+    color: white;
+    text-decoration: none;
+}
+
+.divider {
+    height: 5px;
+    background-color: #ddd;
+    margin: 30px 0;
+}
+
+nav {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
